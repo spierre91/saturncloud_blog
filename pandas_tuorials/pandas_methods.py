@@ -1,7 +1,7 @@
 import pandas as pd 
 import numpy as np 
 
-df = pd.read_csv("insurance_a1.csv")
+df = pd.read_csv("insurance (2).csv")
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
 print(df.head())
